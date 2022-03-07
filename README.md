@@ -1,6 +1,6 @@
 ### Hi there, my name is Jamie! 👋
 
-I will update this soon...
+![Profile Banner](https://i.imgur.com/C4yvECk.png)
 
 <!--
 **Phire0/Phire0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
